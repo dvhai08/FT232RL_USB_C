@@ -1,0 +1,2 @@
+# FT232RL_USBC
+FT232RL Type C
